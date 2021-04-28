@@ -10,12 +10,12 @@ The list of the features implemented in this program are:
 - [x] Error management
 - [x] Use of CSS framework (Bootstrap)
 
-You can see the process ready to work on Codepen: [See the demo](!https://codepen.io/jgcarrillo/pen/YzPdVBR)
+You can see the process ready to work on Codepen: [See the demo](https://codepen.io/jgcarrillo/pen/YzPdVBR)
 
 ## Contact
 
 If you have some doubts or need to ask something about the dotfiles, feel free to reach me here:
 
-    [Twitter]: (!https://twitter.com/jgcarrillo_)
-    [LinkedInt]: (!https://es.linkedin.com/in/jgcarrilloweb)
-    [Website]: (!https://jgcarrillo.com/)
+- Twitter: [https://twitter.com/jgcarrillo](https://twitter.com/jgcarrillo_)
+- LinkedIn: [https://es.linkedin.com/in/jgcarrilloweb](https://es.linkedin.com/in/jgcarrilloweb)
+- Website: [https://jgcarrillo.com/](https://jgcarrillo.com/)
