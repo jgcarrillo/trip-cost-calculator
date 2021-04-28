@@ -2,6 +2,8 @@
 
 This is a pet project only for learning purposes. The aim of this code is to learn the basics about HTML, CSS and (obviously) JS. I made this program in the early times of my web dev path so the code might be a little mess.
 
+<img align="center" widht="460" height="300" src="https://github.com/jgcarrillo/trip-cost-calculator/blob/main/css/img/demo.JPG">
+
 ## List of features
 
 The list of the features implemented in this program are:
