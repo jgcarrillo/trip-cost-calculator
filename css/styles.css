@@ -1,0 +1,39 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    background-color: lightgray !important;
+}
+
+h5{
+    text-transform: uppercase !important;
+    font-weight: bold !important;
+}
+
+h6{
+    font-style: italic;
+}
+
+input{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+
+.titulo-general{
+    font-weight: bold;
+    font-size: 28px;
+    text-transform: uppercase;
+}
+
+#separador{
+    border-top: 2px dashed lightgray;
+}
+
+#carta{
+    margin-top: 30px;
+}
+
+#cuerpo-carta{
+    margin-bottom: 30px;
+}

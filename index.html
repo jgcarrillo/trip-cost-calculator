@@ -1,0 +1,90 @@
+<!DOCTYPE HTML>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <title>Ejercicio calculo precios</title>
+        
+        <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+        <!-- BOOTSTRAP 4-->
+        <link rel="stylesheet" type="text/css" href="css/bootstrap4/bootstrap.min.css">
+
+        <script type="text/javascript" src="js/main.js"></script>
+
+        <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+    </head>
+    <body>
+    <div class="class="container justify-content-center">
+
+        <div class="row">
+            <div class="d-none d-md-block col-md-3 col-lg-3"></div>
+
+            <div class="col-xs-12 col-md-12 col-lg-6 col-lg-6">
+                <div class="card-header titulo-general text-center bg-white" id="carta">Cálculo de costes para viajar</div>
+                <div class="card-body bg-light" id="cuerpo-carta">
+                    <h5 class="card-title text-center">HOTEL</h5>
+                    <h6 class="card-subtitle mb-3 text-center">Cálculo para el hotel</h6>
+
+                    <!-- HOTEL -->
+                    <form id="form1">
+                        <div class="form-group">
+                            <label for="noches_hotel">Introduce el número de noches</label>
+                            <input class="form-control" type="text" name="noches" id="noches_hotel" placeholder="Número de noches">
+                            <input class=" form-control btn-primary" type="button" id="calcular_hotel" value="Calcular!">
+                            <input class="form-control" type="text" name="resultado" id="resultado_hotel">
+                        </div>
+                    </form>
+
+                    <!-- AVION -->
+                    <h5 class="card-title text-center">AVION</h5>
+                    <h6 class="card-subtitle mb-3 text-center">Cálculo para el avión</h6>
+
+                    <form id="form2">
+                        <label for="noches_hotel">Selecciona un destino</label>
+                        <select class="form-control">
+                            <option value="oviedo" id="oviedo">Oviedo</option>
+                            <option value="tokyo" id="tokyo">Tokyo</option>
+                            <option value="madrid" id="madrid">Madrid</option>
+                            <option value="barcelona" id="barcelona">Barcelona</option>
+                        </select>
+                        <input class="form-control btn-primary" type="button" id="calcular_avion" value="Calcular!">            
+                        <input class="form-control mb-3" type="text" name="resultado" id="resultado_avion">
+                    </form>
+
+                    <!-- COCHE -->
+                    <h5 class="card-title text-center">COCHE</h5>
+                    <h6 class="card-subtitle mb-3 text-center">Cálculo para el coche</h6>
+
+                    <form id="form2">
+                        <label for="dias_coche">Introduce el número de días</label>
+                        <input class="form-control" type="text" name="dias_coche" id="dias_coche" placeholder="Número de días">
+            
+                        <input class="form-control btn-primary" type="button" id="calcular_dias_coche" value="Calcular!">
+                        
+                        <input class="form-control" type="text" name="resultado" id="resultado_coche">
+                    </form>
+
+                    <hr id="separador">
+
+                    <!-- RESULTADOS -->
+                    <h5 class="card-title text-center">RESUMEN TOTAL DE GASTOS</h5>
+                    <h6 class="card-subtitle mb-3 text-center">Resultados finales</h6>
+
+                    <form id="form3">
+                        <label for="total_hotel">TOTAL HOTEL</label>
+                        <input class="form-control" type="text" name="total_hotel" id="total_hotel">
+                        
+                        <label for="total_hotel">TOTAL AVION</label>
+                        <input class="form-control" type="text" name="total_avion" id="total_avion">
+                                                   
+                        <label for="total_coche">TOTAL COCHE</label>
+                        <input class="form-control" type="text" name="total_coche" id="total_coche">
+                    </form>                    
+                </div>
+            </div>
+            <div class="d-none d-md-block col-md-3 col-lg-3"></div>
+        </div>
+    </div>
+    </body>
+
+</html>
