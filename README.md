@@ -18,7 +18,7 @@ You can see the application ready to work on Codepen: [See the demo](https://cod
 
 ## Contact
 
-If you have some doubts or need to ask something about the dotfiles, feel free to reach me here:
+If you have some doubts or need to ask something about the project, feel free to reach me here:
 
 - Twitter: [https://twitter.com/jgcarrillo](https://twitter.com/jgcarrillo_)
 - LinkedIn: [https://es.linkedin.com/in/jgcarrilloweb](https://es.linkedin.com/in/jgcarrilloweb)
