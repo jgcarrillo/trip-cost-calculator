@@ -14,7 +14,7 @@ The list of the features implemented in this program are:
 - [x] Error management
 - [x] Use of CSS framework (Bootstrap)
 
-You can see the process ready to work on Codepen: [See the demo](https://codepen.io/jgcarrillo/pen/YzPdVBR)
+You can see the application ready to work on Codepen: [See the demo](https://codepen.io/jgcarrillo/pen/YzPdVBR)
 
 ## Contact
 
