@@ -2,8 +2,8 @@
 
 This is a pet project only for learning purposes. The aim of this code is to learn the basics about HTML, CSS and (obviously) JS. I made this program in the early times of my web dev path so the code might be a little mess.
 
-<p align="center" width="300">
-    <img align="center" width="300" src="https://github.com/jgcarrillo/trip-cost-calculator/blob/main/css/img/demo.JPG" />
+<p align="center" width="400">
+    <img align="center" width="400" src="https://github.com/jgcarrillo/trip-cost-calculator/blob/main/css/img/demo.JPG" />
 </p>
 
 ## List of features
